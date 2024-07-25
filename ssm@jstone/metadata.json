@@ -1,0 +1,9 @@
+{
+    "uuid": "ssm@jstone",
+    "name": "Simplified System Monitor 2",
+    "description": "Applet to show system load and state, based on Severga's",
+    "hide-configuration": false,
+    "max-instances": 1,
+    "author": "jstone",
+    "last-edited": 1720572127
+}
